@@ -1,6 +1,0 @@
-use_frameworks!
-target 'NPModalPanView_Tests' do
-  pod 'NPModalPanView', :path => '../'
-  
-  
-end
